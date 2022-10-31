@@ -1,6 +1,6 @@
 # about.me
 
-![LINK](https://me-web.now.sh/tylermneher)
+[LINK](https://me-web.now.sh/tylermneher)
 
 URL:
 ```
